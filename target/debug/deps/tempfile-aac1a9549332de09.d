@@ -1,0 +1,12 @@
+/Users/fineas/arbitrage/coin_gecko_tracker/target/debug/deps/tempfile-aac1a9549332de09.rmeta: /Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/lib.rs /Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/dir.rs /Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/error.rs /Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/file/mod.rs /Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/file/imp/mod.rs /Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/spooled.rs /Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/util.rs /Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/file/imp/unix.rs
+
+/Users/fineas/arbitrage/coin_gecko_tracker/target/debug/deps/tempfile-aac1a9549332de09.d: /Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/lib.rs /Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/dir.rs /Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/error.rs /Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/file/mod.rs /Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/file/imp/mod.rs /Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/spooled.rs /Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/util.rs /Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/file/imp/unix.rs
+
+/Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/lib.rs:
+/Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/dir.rs:
+/Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/error.rs:
+/Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/file/mod.rs:
+/Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/file/imp/mod.rs:
+/Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/spooled.rs:
+/Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/util.rs:
+/Users/fineas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.6.0/src/file/imp/unix.rs:
