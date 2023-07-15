@@ -33,7 +33,7 @@ struct ApiResponse {
 
 #[tokio::main]
 async fn main() -> Result<(), reqwest::Error> {
-    let api_key = env::var("CMC_API_KEY").expect("CMC_API_KEY must be set"); // Add this line
+    let api_key = env::var("CMC_API_KEY").expect("CMC_API_KEY must be set"); 
     let mut headers = HeaderMap::new();
     headers.insert(
         "X-CMC_PRO_API_KEY",
